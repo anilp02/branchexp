@@ -1,0 +1,2 @@
+G:\dbbackup
+F:\oracle\QAS\sapbackup
